@@ -109,9 +109,9 @@ npx prisma generate
 ### Comandos úteis do Prisma
 
 ```bash
-npx prisma studio        # Interface gráfica da base de dados
+npx prisma studio
 npx prisma migrate status
-npx prisma migrate reset # ATENÇÃO: apaga todos os dados
+npx prisma migrate reset
 ```
 
 ---
